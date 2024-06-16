@@ -1,6 +1,6 @@
-#import "AwemeContactPhotoProvider.h"
+#import "MobileSMSContactPhotoProvider.h"
 
-@implementation AwemeContactPhotoProvider
+@implementation MobileSMSContactPhotoProvider
 
 - (DDNotificationContactPhotoPromiseOffer *)contactPhotoPromiseOfferForNotification:(DDUserNotification *)notification {
 	NSString *attachmentString = [notification.applicationUserInfo valueForKeyPath:@"attachment"];
