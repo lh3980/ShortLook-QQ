@@ -1,5 +1,5 @@
-Package: com.jerrytian.shortlook.plugin.contact-photo.qq
-Name: QQ Profile Pictures for ShortLook
+Package: com.jerrytian.shortlook.plugin.contact-photo.MobileSMS
+Name: MobileSMS Profile Pictures for ShortLook
 Depends: mobilesubstrate
 Version: 1.0.1
 Architecture: iphoneos-arm
