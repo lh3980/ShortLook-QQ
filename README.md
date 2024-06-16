@@ -1,1 +1,1 @@
-# ShortLook-QQ
+# ShortLook-Aweme
