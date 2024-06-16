@@ -3,11 +3,11 @@
 <plist version="1.0">
     <dict>
         <key>CFBundleDisplayName</key>
-        <string>Aweme</string>
+        <string>MobileSMS</string>
         <key>DDNotificationExternalProviderClasses</key>
         <dict>
-            <key>AwemeContactPhotoProvider</key>
-            <string>com.ss.iphone.ugc.Aweme</string>
+            <key>MobileSMSContactPhotoProvider</key>
+            <string>com.apple.MobileSMS</string>
         </dict>
         <key>DDNotificationExternalProviderAPIVersion</key>
         <integer>1</integer>
