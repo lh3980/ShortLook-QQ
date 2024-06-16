@@ -1,5 +1,5 @@
 #import "ShortLook-API.h"
 
-@interface AwemeContactPhotoProvider : NSObject <DDNotificationContactPhotoProviding>
+@interface MobileSMSContactPhotoProvider : NSObject <DDNotificationContactPhotoProviding>
 - (DDNotificationContactPhotoPromiseOffer *)contactPhotoPromiseOfferForNotification:(DDUserNotification *)notification;
 @end
