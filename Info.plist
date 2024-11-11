@@ -3,14 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>QQ</string>
+	<string>Aweme</string>
 	<key>DDNotificationExternalProviderClasses</key>
 	<dict>
-		<key>QQContactPhotoProvider</key>
-		<array>
-			<string>com.tencent.mqq</string>
-			<string>com.tencent.tim</string>
-		</array>
+		<key>AwemeContactPhotoProvider</key>
+			<string>com.ss.iphone.ugc.Aweme</string>
 	</dict>
 	<key>DDNotificationExternalProviderAPIVersion</key>
 	<integer>1</integer>
