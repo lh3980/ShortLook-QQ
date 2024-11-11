@@ -1,6 +1,6 @@
 #import "ShortLook-API.h"
 
-@interface QQContactPhotoProvider : NSObject <DDNotificationContactPhotoProviding>
+@interface AwemeContactPhotoProvider : NSObject <DDNotificationContactPhotoProviding>
 
 - (DDNotificationContactPhotoPromiseOffer *)contactPhotoPromiseOfferForNotification:(DDUserNotification *)notification;
 @end
