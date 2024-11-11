@@ -1,9 +1,9 @@
-Package: com.jerrytian.shortlook.plugin.contact-photo.qq
-Name: QQ Profile Pictures for ShortLook
+Package: com.jerrytian.shortlook.plugin.contact-photo.Aweme
+Name: Aweme Profile Pictures for ShortLook
 Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
 Version: 1.0.1
 Architecture: iphoneos-arm
-Description: Show QQ/TIM users' profile pictures in ShortLook when you receive a QQ/TIM notification!
+Description: Show Aweme users' profile pictures in ShortLook when you receive a Aweme notification!
 Maintainer: Jianan Tian
 Author: Jianan Tian
 Section: Tweaks (ShortLook)
