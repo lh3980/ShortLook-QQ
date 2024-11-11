@@ -4,7 +4,7 @@ ARCHS = armv7 arm64
 
 include $(THEOS)/makefiles/common.mk
 
-BUNDLE_NAME = ShortLook-QQ
+BUNDLE_NAME = ShortLook-Aweme
 $(BUNDLE_NAME)_CFLAGS = -fobjc-arc
 $(BUNDLE_NAME)_FILES = $(wildcard *.m)
 $(BUNDLE_NAME)_FRAMEWORKS = UIKit
